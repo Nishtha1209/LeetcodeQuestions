@@ -1,2 +1,3 @@
 # LeetcodeQuestions
-Solved Leetcode Questions
+Leetcode Solutions
+
