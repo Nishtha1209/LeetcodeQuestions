@@ -3,7 +3,7 @@
 class Solution {
     public int findKthLargest(int[] nums, int k) {
         // Arrays.sort(nums);
-        // return nums[nums.length-k];
+        // return nums[nums.length-k];  //short-cut method
 
         //OPTIMAL SOLUTION
         // PriorityQueue<Integer> pq = new PriorityQueue<>(Collections.reverseOrder());
